@@ -12,6 +12,21 @@
 		058CCF261E1CCED500A6F0B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF241E1CCED500A6F0B3 /* Main.storyboard */; };
 		058CCF281E1CCED500A6F0B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF271E1CCED500A6F0B3 /* Assets.xcassets */; };
 		058CCF2B1E1CCED500A6F0B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF291E1CCED500A6F0B3 /* LaunchScreen.storyboard */; };
+		058CCF3D1E1CCF5000A6F0B3 /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF321E1CCF5000A6F0B3 /* 0.jpg */; };
+		058CCF3E1E1CCF5000A6F0B3 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF331E1CCF5000A6F0B3 /* 1.jpg */; };
+		058CCF3F1E1CCF5000A6F0B3 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF341E1CCF5000A6F0B3 /* 2.jpg */; };
+		058CCF401E1CCF5000A6F0B3 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF351E1CCF5000A6F0B3 /* 3.jpg */; };
+		058CCF411E1CCF5000A6F0B3 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF361E1CCF5000A6F0B3 /* 4.jpg */; };
+		058CCF421E1CCF5000A6F0B3 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF371E1CCF5000A6F0B3 /* 5.jpg */; };
+		058CCF431E1CCF5000A6F0B3 /* back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF381E1CCF5000A6F0B3 /* back.jpg */; };
+		058CCF441E1CCF5000A6F0B3 /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF391E1CCF5000A6F0B3 /* camera.png */; };
+		058CCF451E1CCF5000A6F0B3 /* library.png in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF3A1E1CCF5000A6F0B3 /* library.png */; };
+		058CCF461E1CCF5000A6F0B3 /* saveAlbum.png in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF3B1E1CCF5000A6F0B3 /* saveAlbum.png */; };
+		058CCF471E1CCF5000A6F0B3 /* shareAction.png in Resources */ = {isa = PBXBuildFile; fileRef = 058CCF3C1E1CCF5000A6F0B3 /* shareAction.png */; };
+		058CCF491E1CD3F900A6F0B3 /* EditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058CCF481E1CD3F900A6F0B3 /* EditViewController.swift */; };
+		058CCF4C1E1CDE5400A6F0B3 /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 058CCF4B1E1CDE5300A6F0B3 /* CoreImage.framework */; };
+		058CCF501E1CE39B00A6F0B3 /* SNSViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058CCF4F1E1CE39B00A6F0B3 /* SNSViewController.swift */; };
+		05D6E2941E1CED570064F336 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05D6E2931E1CED570064F336 /* Social.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +37,21 @@
 		058CCF271E1CCED500A6F0B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		058CCF2A1E1CCED500A6F0B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		058CCF2C1E1CCED500A6F0B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		058CCF321E1CCF5000A6F0B3 /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
+		058CCF331E1CCF5000A6F0B3 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		058CCF341E1CCF5000A6F0B3 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		058CCF351E1CCF5000A6F0B3 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		058CCF361E1CCF5000A6F0B3 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		058CCF371E1CCF5000A6F0B3 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		058CCF381E1CCF5000A6F0B3 /* back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back.jpg; sourceTree = "<group>"; };
+		058CCF391E1CCF5000A6F0B3 /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera.png; sourceTree = "<group>"; };
+		058CCF3A1E1CCF5000A6F0B3 /* library.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = library.png; sourceTree = "<group>"; };
+		058CCF3B1E1CCF5000A6F0B3 /* saveAlbum.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = saveAlbum.png; sourceTree = "<group>"; };
+		058CCF3C1E1CCF5000A6F0B3 /* shareAction.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shareAction.png; sourceTree = "<group>"; };
+		058CCF481E1CD3F900A6F0B3 /* EditViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditViewController.swift; sourceTree = "<group>"; };
+		058CCF4B1E1CDE5300A6F0B3 /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
+		058CCF4F1E1CE39B00A6F0B3 /* SNSViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SNSViewController.swift; sourceTree = "<group>"; };
+		05D6E2931E1CED570064F336 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +59,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05D6E2941E1CED570064F336 /* Social.framework in Frameworks */,
+				058CCF4C1E1CDE5400A6F0B3 /* CoreImage.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +72,7 @@
 			children = (
 				058CCF1F1E1CCED500A6F0B3 /* SwiftInstaCamera1 */,
 				058CCF1E1E1CCED500A6F0B3 /* Products */,
+				058CCF4A1E1CDE5300A6F0B3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +87,36 @@
 		058CCF1F1E1CCED500A6F0B3 /* SwiftInstaCamera1 */ = {
 			isa = PBXGroup;
 			children = (
+				058CCF321E1CCF5000A6F0B3 /* 0.jpg */,
+				058CCF331E1CCF5000A6F0B3 /* 1.jpg */,
+				058CCF341E1CCF5000A6F0B3 /* 2.jpg */,
+				058CCF351E1CCF5000A6F0B3 /* 3.jpg */,
+				058CCF361E1CCF5000A6F0B3 /* 4.jpg */,
+				058CCF371E1CCF5000A6F0B3 /* 5.jpg */,
+				058CCF381E1CCF5000A6F0B3 /* back.jpg */,
+				058CCF391E1CCF5000A6F0B3 /* camera.png */,
+				058CCF3A1E1CCF5000A6F0B3 /* library.png */,
+				058CCF3B1E1CCF5000A6F0B3 /* saveAlbum.png */,
+				058CCF3C1E1CCF5000A6F0B3 /* shareAction.png */,
 				058CCF201E1CCED500A6F0B3 /* AppDelegate.swift */,
 				058CCF221E1CCED500A6F0B3 /* ViewController.swift */,
+				058CCF481E1CD3F900A6F0B3 /* EditViewController.swift */,
+				058CCF4F1E1CE39B00A6F0B3 /* SNSViewController.swift */,
 				058CCF241E1CCED500A6F0B3 /* Main.storyboard */,
 				058CCF271E1CCED500A6F0B3 /* Assets.xcassets */,
 				058CCF291E1CCED500A6F0B3 /* LaunchScreen.storyboard */,
 				058CCF2C1E1CCED500A6F0B3 /* Info.plist */,
 			);
 			path = SwiftInstaCamera1;
+			sourceTree = "<group>";
+		};
+		058CCF4A1E1CDE5300A6F0B3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				05D6E2931E1CED570064F336 /* Social.framework */,
+				058CCF4B1E1CDE5300A6F0B3 /* CoreImage.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +179,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				058CCF441E1CCF5000A6F0B3 /* camera.png in Resources */,
+				058CCF411E1CCF5000A6F0B3 /* 4.jpg in Resources */,
+				058CCF3F1E1CCF5000A6F0B3 /* 2.jpg in Resources */,
+				058CCF471E1CCF5000A6F0B3 /* shareAction.png in Resources */,
+				058CCF3D1E1CCF5000A6F0B3 /* 0.jpg in Resources */,
+				058CCF421E1CCF5000A6F0B3 /* 5.jpg in Resources */,
 				058CCF2B1E1CCED500A6F0B3 /* LaunchScreen.storyboard in Resources */,
+				058CCF461E1CCF5000A6F0B3 /* saveAlbum.png in Resources */,
 				058CCF281E1CCED500A6F0B3 /* Assets.xcassets in Resources */,
+				058CCF451E1CCF5000A6F0B3 /* library.png in Resources */,
+				058CCF431E1CCF5000A6F0B3 /* back.jpg in Resources */,
 				058CCF261E1CCED500A6F0B3 /* Main.storyboard in Resources */,
+				058CCF401E1CCF5000A6F0B3 /* 3.jpg in Resources */,
+				058CCF3E1E1CCF5000A6F0B3 /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +204,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				058CCF231E1CCED500A6F0B3 /* ViewController.swift in Sources */,
+				058CCF501E1CE39B00A6F0B3 /* SNSViewController.swift in Sources */,
 				058CCF211E1CCED500A6F0B3 /* AppDelegate.swift in Sources */,
+				058CCF491E1CD3F900A6F0B3 /* EditViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +368,7 @@
 				058CCF311E1CCED500A6F0B3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
